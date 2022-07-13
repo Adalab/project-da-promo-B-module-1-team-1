@@ -24,3 +24,25 @@ q10_part_16 TEXT,
 q10_other TEXT,
 PRIMARY KEY (index_sql));
 
+
+CREATE TABLE data_txt (
+index_txt INT NOT NULL AUTO_INCREMENT,
+index_sql INT,
+q3
+q4
+q5
+q6
+q7
+q8
+q9
+q10
+q11
+q12
+q13
+q14
+q15
+q16
+q17
+q18
+q19
+q20
